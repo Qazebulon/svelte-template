@@ -1,3 +1,18 @@
+# Required Installs...
+- ...
+- Github CLI
+
+# Steps
+- gh repo create repo_name --public --template https://github.com/Qazebulon/svelte-template --clone
+- Settings -> Pages -> Source -> GitHub Actions
+
+
+
+
+
+---
+
+
 # Svelte + TS + Vite + GitHub (CLI, Actions, & Pages)
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
